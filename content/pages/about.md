@@ -4,4 +4,4 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-About me
+A professional writer having more than 12 years of experience. 

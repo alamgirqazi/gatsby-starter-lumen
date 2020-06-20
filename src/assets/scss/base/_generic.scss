@@ -77,6 +77,10 @@ img {
   margin: inherit auto;
 }
 
+.rounded-img {
+  border-radius: 50%;
+}
+
 hr {
   margin-top: 52px;
   margin-bottom: 52px;
@@ -152,6 +156,7 @@ figcaption {
 }
 
 @include breakpoint-sm {
+
   figure.float-left,
   figure.float-right {
     max-width: 310px;

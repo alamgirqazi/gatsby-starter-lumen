@@ -1,9 +1,10 @@
 // @flow strict
-import React from 'react';
+
 import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
 import Menu from './Menu';
+import React from 'react';
 import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
 
@@ -19,11 +20,12 @@ const Sidebar = ({ isIndex }: Props) => {
       <div className={styles['sidebar__inner']}>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
-        <Contacts contacts={author.contacts} />
-        <Copyright copyright={copyright} />
       </div>
     </div>
   );
 };
+
+// <Contacts contacts={author.contacts} />
+// <Copyright copyright={copyright} />
 
 export default Sidebar;

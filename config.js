@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Sanam Seema Qazi',
     photo: '/photo.jpg',
-    bio: 'I like writing.',
+    bio: 'A professional writer having more than 12 years of experience.',
     contacts: {
       email: '',
       facebook: '#',
