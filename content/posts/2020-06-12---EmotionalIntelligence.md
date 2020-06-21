@@ -1,10 +1,10 @@
 ---
 title: "Emotional Intelligence"
-date: "2020-06-16"
+date: "2020-06-12"
 template: "post"
 draft: false
 slug: "7-signs-that-indicate-that-you-simply-lack-emotional-intelligence"
-category: "Emotional Intelligence"
+category: "EQ"
 tags:
   - "Emotional Intelligence"
 
