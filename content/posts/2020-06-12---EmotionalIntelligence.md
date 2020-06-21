@@ -8,7 +8,7 @@ category: "EQ"
 tags:
   - "Emotional Intelligence"
 
-description: "Not everything is an IQ in life, and your emotional abilities play an equally important role in how your life will look. "
+description: "Not everything is an IQ in life, and your emotional abilities play an equally important role in how your life will look.Emotional intelligence might not have received equivalent fame as IQ, but today researchers are already realizing that  you do not need to be geniuses to succeed. "
 socialImage: "/media/gutenberg.jpg"
 ---
 
